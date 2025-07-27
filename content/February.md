@@ -19,7 +19,7 @@ The oral examinations are tentatively on Tuesday, February 22 and Thursday, Febr
 ##### Topics in the prerecorded lectures
 
 
-There are four topics that are covered in the [prerecorded](http://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/all-lectures/) lectures (at http://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/all-lectures/) that will be part of the course.
+There are four topics that are covered in the [prerecorded](https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/all-lectures/) lectures (at https://math.iisc.ac.in/~gadgil/introduction-algebraic-topology-2020/all-lectures/) that will be part of the course.
 
 
 1. Simplicial complexes and Simplicial homology: Lectures 27 and 28 (these do not  depend on the earlier lectures).

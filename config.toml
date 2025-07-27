@@ -1,4 +1,4 @@
-baseURL = "http://math.iisc.ac.in/~gadgil/topology-2022/"
+baseURL = "https://math.iisc.ac.in/~gadgil/topology-2025/"
 languageCode = "en-us"
 title = "MA 231: Topology"
 theme = "course"
@@ -6,6 +6,6 @@ buildFuture = "true"
 [params]
     code = "MA 231"
     course = "Topology"
-    term = "August 2022"
+    term = "August 2025"
 [markup.goldmark.renderer]
 unsafe= true

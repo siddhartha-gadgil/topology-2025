@@ -4,7 +4,7 @@
 * __E-mail:__ _siddhartha.gadgil@gmail.com_
 * __Office:__ N-15, Department of Mathematics, IISc.
 * __Timing:__ Tue, Thu 8:30 -- 10:00 am.
-* __Venue:__ LH-4.
+* __Venue:__ LH-3.
 * __Teaching Assistants:__ Sudip Dolai, Pallab Kumar Hembram
 * __Office:__ L-22, Department of Mathematics, IISc.
 * __Tutorial timing:__ TBA

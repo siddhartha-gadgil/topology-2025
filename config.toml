@@ -8,4 +8,4 @@ buildFuture = "true"
     course = "Topology"
     term = "August 2025"
 [markup.goldmark.renderer]
-unsafe= true
+    unsafe= true
